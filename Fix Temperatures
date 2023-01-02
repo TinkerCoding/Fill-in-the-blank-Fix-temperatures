@@ -1,0 +1,6 @@
+let temperatures = [-5, 12, 15, 18, 13]
+
+let fixed = temperatures.map(function(temperature) {
+     return temperature - 1
+     
+})
